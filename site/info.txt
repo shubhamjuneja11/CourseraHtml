@@ -1,0 +1,6 @@
+box-sizing:border-box;		to set idth as complete width including margin,padding etc
+
+to set for all use,
+*{
+box-sizing: border-box;
+}
